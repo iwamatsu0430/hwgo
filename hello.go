@@ -1,4 +1,4 @@
-package "hwgo"
+package hwgo
 
 import "fmt"
 
